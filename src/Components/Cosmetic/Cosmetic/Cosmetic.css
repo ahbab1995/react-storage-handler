@@ -1,0 +1,7 @@
+.product{
+    width: 50%;
+    margin: auto;
+    border: 2px solid rgb(50, 172, 50);
+    margin-top: 10px;
+    padding: 10px;
+}
